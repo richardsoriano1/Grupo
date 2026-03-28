@@ -13,6 +13,9 @@ ODS 6: Agua Limpia y Saneamiento
 👥 Integrantes del Equipo
 
 Soriano Cordova Richard Aaron
+
 Hasly Valeria Santos Mayta
+
 Torres Velazco Mickele Carlos
+
 Johan Chara Franco
