@@ -14,5 +14,6 @@ ODS 6: Agua Limpia y Saneamiento 🚰
 
 <img width="393" height="548" alt="image" src="https://github.com/user-attachments/assets/992b219c-5309-4fd3-982b-3cfd0adea3b0" />
 
-📌 Resumen Final
+📌 Resumen Final:
+
 Este README es para presentar los integrantes de nuestro grupo de trabajo, en que temas nos enfocaremos y en qué ODS vamos a trabajar durante el curso.
