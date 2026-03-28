@@ -6,6 +6,7 @@ omos el Equipo 04 del curso Procesos de Innovación para la Ingeniería, conform
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto en lo social, ambiental y salud.
 
 Nosotros vamos a enfocarnos en los siguientes Objetivos de Desarrollo sostenible(ODS):
+
 ODS 3: Salud y Bienestar 🏞️
 
 ODS 13: Acción por el Clima ⛅
