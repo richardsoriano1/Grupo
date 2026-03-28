@@ -12,10 +12,6 @@ ODS 6: Agua Limpia y Saneamiento 🚰
 
 👥 Integrantes del Equipo
 
-Soriano Cordova Richard Aaron
-
-Hasly Valeria Santos Mayta
-
-Torres Velazco Mickele Carlos
-
-Johan Chara Franco
+<img width="393" height="548" alt="image" src="https://github.com/user-attachments/assets/992b219c-5309-4fd3-982b-3cfd0adea3b0" />
+📌 Resumen Final
+Este README es para presentar los integrantes de nuestro grupo de trabajo, en que temas nos enfocaremos y en qué ODS vamos a trabajar durante el curso.
